@@ -6,9 +6,8 @@
 - 💞️ I’m looking to collaborate in everthing i know
 - 📫 How to reach me E-mail jr.dasrosas@gmail.com
 
-
 <p align="left">
-  <a href="jr.dasrosas@gmail.com" alt="Gmail">
+  <a href="mailto:jr.dasrosas@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=jr.dasrosas@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/joeldarosajunior/" alt="Linkedin">
