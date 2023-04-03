@@ -4,7 +4,6 @@
 - 👀 I’m interested in Automation 
 - 🌱 I’m currently learning full-Python
 - 💞️ I’m looking to collaborate in everthing i know
-- 📫 How to reach me E-mail jr.dasrosas@gmail.com
 
 <p align="left">
   <a href="mailto:jr.dasrosas@gmail.com" alt="Gmail">
