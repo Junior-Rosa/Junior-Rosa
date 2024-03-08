@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Junior-Rosa
 - 👀 I’m interested in Automation 
 - 🌱 I’m currently learning full-Python
-- 💞️ I’m looking to collaborate in everthing i know
+- 💞️ I’m looking to collaborate in everthing I know
 
 <p align="left">
   <a href="mailto:jr.dasrosas@gmail.com" alt="Gmail">
