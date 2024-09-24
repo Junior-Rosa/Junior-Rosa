@@ -4,7 +4,7 @@
 - 👀 I’m interested in Automation 
 - 🌱 I’m currently learning full-Python
 - 💞️ I’m looking to collaborate in everthing I know
-- 📄 Familiality with using protocol JSON, HTTP, REST.
+- 📄 Familiality with protocol JSON, HTTP(S), REST.
 - 💻 Development of projects using DJANGO, DJANGO-REST, Python, Powershell.
 
 <p align="left">
