@@ -4,8 +4,10 @@
 - 👀 I’m interested in Automation 
 - 🌱 I’m currently learning full-Python
 - 💞️ I’m looking to collaborate in everthing I know
-- 📄 Familiality with protocol JSON, HTTP(S), REST.
-- 💻 Development of projects using DJANGO, DJANGO-REST, Python, Powershell.
+- 📄 API Integrations: Familiar with integrating third-party services and APIs (REST, JSON, HTTP/HTTPS) into scalable backend systems.
+- 🚀 Skills: Strong expertise in developing APIs using Django and Django REST Framework, with experience in automating tasks using Python and PowerShell.
+- 📦 DevOps Knowledge: Comfortable with containerization tools like Docker, orchestration using Kubernetes, and managing CI/CD pipelines, especially with Jenkins.
+- 🔍 Problem Solver: Focused on writing clean, efficient, and scalable code, with a passion for automating repetitive tasks and optimizing workflows.
 
 <p align="left">
   <a href="mailto:jr.dasrosas@gmail.com" alt="Gmail">
