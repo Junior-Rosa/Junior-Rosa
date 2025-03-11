@@ -22,6 +22,8 @@
   <a href="https://www.instagram.com/junior_das_rosas" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/junior_das_rosas"/></a>
 </p>  
+
+![GitHub Snake](https://github.com/junior-rosa/junior-rosa/blob/output/github-snake-dark.svg)
 <!---
 Junior-Rosa/Junior-Rosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
